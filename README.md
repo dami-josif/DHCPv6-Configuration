@@ -47,3 +47,4 @@ Open configuration window
 R2(config)# interface g0/0/1
 R2(config-if)# ipv6 nd managed-config-flag
 R2(config-if)# ipv6 dhcp relay destination 2001:db8:acad:2::1 g0/0/0
+<img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/d4f7cfea-ba3b-40aa-85c5-4cff344ee225" />
